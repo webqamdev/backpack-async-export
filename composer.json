@@ -1,8 +1,9 @@
 {
-    "name": "thomascombe/backpack-async-export",
+    "name": "webqamdev/backpack-async-export",
     "description": "This is a package to manage async export in Backpack for Laravel",
     "keywords": [
         "thomascombe",
+        "webqamdev",
         "laravel",
         "backpack-async-export",
         "backpack",
