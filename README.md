@@ -2,9 +2,9 @@
 
 # Laravel Backpack Async Export
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/thomascombe/backpack-async-export.svg?style=flat-square)](https://packagist.org/packages/thomascombe/backpack-async-export)
-[![PHPCS check](https://github.com/thomascombe/backpack-async-export/actions/workflows/phpcs.yml/badge.svg)](https://github.com/thomascombe/backpack-async-export/actions/workflows/phpcs.yml)
-[![Total Downloads](https://img.shields.io/packagist/dt/thomascombe/backpack-async-export.svg?style=flat-square)](https://packagist.org/packages/thomascombe/backpack-async-export)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/webqamdev/backpack-async-export.svg?style=flat-square)](https://packagist.org/packages/webqamdev/backpack-async-export)
+[![PHPCS check](https://github.com/webqamdev/backpack-async-export/actions/workflows/phpcs.yml/badge.svg)](https://github.com/webqamdev/backpack-async-export/actions/workflows/phpcs.yml)
+[![Total Downloads](https://img.shields.io/packagist/dt/webqamdev/backpack-async-export.svg?style=flat-square)](https://packagist.org/packages/webqamdev/backpack-async-export)
 
 This is a package to manage async export and import in [Backpack](https://backpackforlaravel.com/) for Laravel
 
@@ -16,7 +16,7 @@ This is a package to manage async export and import in [Backpack](https://backpa
 You can install the package via composer:
 
 ```bash
-composer require thomascombe/backpack-async-export
+composer require webqamdev/backpack-async-export
 ```
 
 | Version | PHP        | Laravel             | Backpack     |
@@ -25,6 +25,7 @@ composer require thomascombe/backpack-async-export
 | 2.x     | ^8.1       | ^9.0 - ^10.0        | ~5.5 - ~6.0  |
 | 3.x     | ^8.1       | ^10.0               | ~6.0         |
 | 4.x     | ^8.2       | ^11.0               | ~6.0         |
+| 5.x     | ^8.2       | ^12.0 - ^13.0       | ^7.0         |
 
 You can publish and run the migrations with:
 
